@@ -8,9 +8,7 @@
 - [運営ルール](sample_project/rules.example.md)
 
 
-## リポジトリ単位
-
-### ユーザ向け
+### メンバー向け
 
 - [概要](sample_repo/README.example.md)
 
