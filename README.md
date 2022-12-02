@@ -13,8 +13,6 @@
 
 ### ユーザ向け
 
-ユーザを対象読者とした文書の一覧です。
-
 - [概要](sample_repo/README.md.tpl)
     - [例](sample_repo/README.example.md)
 - [コマンド](sample_repo/doc/user/Command.md.tpl)
@@ -28,8 +26,6 @@
 
 
 ### 開発者向け
-
-開発者を対象読者とした文書の一覧です。`*` がついている項目はGUIアプリのみが対象です。
 
 - [配置図](sample_repo/doc/dev/DeploymentDiagram.md.tpl)
     - [例](sample_repo/doc/dev/DeploymentDiagram.example.md) ([プレビュー](sample_repo/doc/dev/_previews/DeploymentDiagram.png))
