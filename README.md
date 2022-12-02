@@ -1,7 +1,7 @@
 # 開発ドキュメント
 
 
-## プロジェクト単位
+## プロジェクト
 
 - [概要](sample_project/overview.example.md)
 
