@@ -1,21 +1,6 @@
 # 開発ドキュメント
 
 
-### メンバー向け
-
-- [概要](sample_repo/README.example.md)
-
-- [コマンド](sample_repo/doc/user/Command.example.md)
-
-- [設定](sample_repo/doc/user/Configuration.example.md)
-
-- [バグ報告テンプレート](sample_repo/.github/ISSUE_TEMPLATE/bug_report.md)
-
-- [改善提案テンプレート](sample_repo/.github/ISSUE_TEMPLATE/feature_request.md)
-- API
-    - OpenAPIなどで自動生成
-
-
 ### 開発者向け
 
 - [配置図](sample_repo/doc/dev/DeploymentDiagram.example.md)
