@@ -31,8 +31,6 @@
 - [コミュニケーション図](sample_repo/doc/dev/Communication.example.md) 
 ([プレビュー](sample_repo/doc/dev/_previews/Communication.png))
 
-- [リポジトリ運用ガイドライン](sample_repo/CONTRIBUTING.example.md)
-
 - [Architectural Decision Records](sample_repo/doc/dev/adr/0001-record-adr.example.md)
 
 - [プルリクエストテンプレート](sample_repo/.github/PULL_REQUEST_TEMPLATE.md)
