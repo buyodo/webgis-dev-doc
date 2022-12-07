@@ -1,7 +1,7 @@
 # 開発ドキュメント
 
 
-### 開発者向け
+### 外部設計
 
 - [配置図](sample_repo/doc/dev/DeploymentDiagram.example.md)
 ([プレビュー](sample_repo/doc/dev/_previews/DeploymentDiagram.png))
