@@ -1,13 +1,6 @@
 # 開発ドキュメント
 
 
-## プロジェクト
-
-- [概要](sample_project/overview.example.md)
-
-- [運営ルール](sample_project/rules.example.md)
-
-
 ### メンバー向け
 
 - [概要](sample_repo/README.example.md)
