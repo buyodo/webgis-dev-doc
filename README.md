@@ -3,15 +3,17 @@
 
 ### 外部設計
 
-- [配置図](sample_repo/doc/dev/DeploymentDiagram.example.md)
+- [ユースケース]()
 
 - [シーケンス図](sample_repo/doc/dev/SequenceDiagram.example.md) 
 
-- [UI Flows](sample_repo/doc/dev/UIFlows.example.uif) 
+- [概念モデル]() 
 
-- [画面遷移図](sample_repo/doc/dev/ScreenTransitionDiagram.example.png) *
-
-- [画面設計書](sample_repo/doc/dev/ScreenDesign.example.md)
+- [画面設計](sample_repo/doc/dev/ScreenDesign.example.md)
     
+- [画面遷移図](sample_repo/doc/dev/ScreenTransitionDiagram.example.png) *    
+
+- [帳票（印刷）]()
+
 - 論理ER図
     
