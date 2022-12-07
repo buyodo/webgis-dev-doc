@@ -12,16 +12,6 @@
 - [画面遷移図](sample_repo/doc/dev/ScreenTransitionDiagram.example.png) *
 
 - [画面設計書](sample_repo/doc/dev/ScreenDesign.example.md)
-
-- [クラス図](sample_repo/doc/dev/ClassDiagram.example.md) 
-
-- [フローチャート](sample_repo/doc/dev/Flowchart.example.md) 
-
-- [状態遷移図](sample_repo/doc/dev/StateTransitionDiagram.example.md) 
-
-- [データフロー図](sample_repo/doc/dev/DataFlowDiagram.example.md) 
-
-- [コミュニケーション図](sample_repo/doc/dev/Communication.example.md) 
     
 - 論理ER図
     
