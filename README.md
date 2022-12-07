@@ -30,10 +30,6 @@
 
 - [コミュニケーション図](sample_repo/doc/dev/Communication.example.md) 
 ([プレビュー](sample_repo/doc/dev/_previews/Communication.png))
-
-- [プルリクエストテンプレート](sample_repo/.github/PULL_REQUEST_TEMPLATE.md)
-
-- テーブル定義
     
-- ER図
+- 論理ER図
     
