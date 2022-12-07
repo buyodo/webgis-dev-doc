@@ -38,8 +38,6 @@
 - [プルリクエストテンプレート](sample_repo/.github/PULL_REQUEST_TEMPLATE.md)
 
 - テーブル定義
-    - ORMのスキーマファイルなどを流用するか自動生成
     
 - ER図
-    - ORMのスキーマファイルなどを流用するか自動生成
     
